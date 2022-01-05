@@ -9,10 +9,5 @@ A co jeśli kąt w sinusie zmienia się w  __innym tempie __ niż cosinus?
 ![](img/12%20Krzywe%20-%20Gliwice11.png)
 
 Przechodzimy do projektu\!
-
-![](img/12%20Krzywe%20-%20Gliwice12.png)
-
-![](img/12%20Krzywe%20-%20Gliwice13.jpg)
-
 Gratulacje\! Zostałeś młodym adeptem języków skryptowych\!
 
